@@ -19,7 +19,7 @@ function percentagesOFWorld1(population) {
   return (population / 7900) * 100;
 }
 
-let population = [10, 1441, 332, 83];
+let population = [10, 1441, 332, 83, 30];
 let percentages3 = [];
 let i = 0;
 while (i < population.length) {
